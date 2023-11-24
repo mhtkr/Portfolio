@@ -1,0 +1,20 @@
+body
+{
+    background-color:#121212 ;
+}
+.avatar
+{
+    background-color: blueviolet;
+    border-radius: 20px;
+    padding: 10px;
+    height: auto;
+}
+
+.avatar img
+{
+    height: 300px;
+    max-width: auto;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
