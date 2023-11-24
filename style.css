@@ -1,24 +1,75 @@
 body
 {
-    background-color:#121212 ;
+    background-color:#DDF2FD ;
 }
 .avatar
 {
-    background-color: blueviolet;
+    background-color: transparent;
     border-radius: 20px;
     padding: 10px;
-    height: auto;
+    height: fit-content;
+    width: fit-content;
+    margin: 0 auto;
 }
 
 .avatar img
 {
     height: 300px;
     max-width: auto;
-    border-radius: 20px;
+    border-radius: 200px;
     display: block;
     margin: 0 auto;
 }
 .name
 {
-    background-color: blue;
+    background-color: transparent;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 10px;
+    margin: 10px auto;
+}
+.name h1
+{
+    text-align: center;
+    margin: auto;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #427D9D;
+    font-size: 2.5em;
+}
+
+.links
+{
+    background-color: transparent;
+    border: 1px solid white;
+    height: fit-content;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.links div
+{
+    background-color: transparent;
+    display: inline;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+.links div a
+{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    color: #9BBEC8;
+}
+.links div:hover
+{
+    border: 2px solid #427D9D;
+}
+.links div:hover,
+.links div:hover a
+{
+    color: #427D9D;
 }
