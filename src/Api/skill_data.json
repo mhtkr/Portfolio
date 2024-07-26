@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Python",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "C++",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "Java",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/3291/3291669.png",
+        "rating": "◉◉◉"
+    },
+    {
+        "name": "HTML",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/256/174/174854.png",
+        "rating": "◉◉◉◉◉"
+    },
+    {
+        "name": "CSS",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/732/732190.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "JavaScript",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
+        "rating": "◉◉◉"
+    },
+    {
+        "name": "React.js",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/3334/3334886.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "PHP",
+        "imgUrl": "https://cdn.iconscout.com/icon/premium/png-256-thumb/php-2752101-2284918.png?f=webp&w=256",
+        "rating": "◉◉◉"
+    },
+    {
+        "name": "Git",
+        "imgUrl": "https://cdn.iconscout.com/icon/free/png-256/free-git-17-1175218.png?f=webp&w=256",
+        "rating": "◉◉◉"
+    },
+    {
+        "name": "GitHub",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/256/2111/2111292.png",
+        "rating": "◉◉◉"
+    },
+    {
+        "name": "MySQL",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968313.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "MongoDB",
+        "imgUrl": "https://cdn.qwiklabs.com/DvBIljaQAQk%2BxSFN6s%2F7jexH6vvsI8Xj1MZrXHZlxm0%3D",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "Data Structures",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/12297/12297565.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "Algorithms",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/11247/11247069.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "OOPS",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/5815/5815526.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "DBMS",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/148/148824.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "Operating Systems",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/6303/6303588.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "Prompt Eng.",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/10328/10328681.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "Photoshop",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968520.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "Illustrator",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968472.png",
+        "rating": "◉◉◉◉"
+    },
+    {
+        "name": "Artificial Intelligence",
+        "imgUrl": "https://cdn-icons-png.flaticon.com/512/2472/2472035.png",
+        "rating": "◉◉◉◉"
+    }
+
+
+]

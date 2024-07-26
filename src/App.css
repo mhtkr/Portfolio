@@ -1,0 +1,267 @@
+body {
+    font-family: Outfit, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("/public/alexander-grey-WqPAETBU2G8-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  header {
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    background: rgba(9, 9, 9, 0.5);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    -webkit-backdrop-filter: blur( 3.5px );
+    border: 1px solid rgba( 255, 255, 255, 0.5 );
+  }
+
+  header h1
+  {
+    font-size: clamp(40px, 5vw, 100px);
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 1rem;
+    padding: 5px 10px;
+    border-radius: 50px;
+    background-color: #FF004D;
+
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2rem;
+  }
+  
+  footer {
+    background: #161b22;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    bottom: 0;
+    max-width: 100%;
+    background: rgba(9, 9, 9, 0.5);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    -webkit-backdrop-filter: blur( 3.5px );
+    border: 1px solid rgba( 255, 255, 255, 0.5 );
+  }
+  
+  form label {
+    display: block;
+    margin: 1rem 0;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+  }
+  
+  form button {
+    background: #FF004D;
+    border-radius: 50px;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+  }
+
+  #about
+  {
+    background-color: black;
+    color: #EBF4F6;
+    background: rgba( 255, 255, 255, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    -webkit-backdrop-filter: blur( 3.5px );
+    border: 1px solid rgba( 255, 255, 255, 0.5 );
+  }
+  #about h2
+  {
+    background-color: #FF004D;
+    width: fit-content;
+    padding: 8px;
+    border-radius: 50px;
+  }
+
+  .card_container
+  {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    padding: 20px;
+    background: rgba(9, 9, 9, 0.5);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    -webkit-backdrop-filter: blur( 3.5px );
+    border: 1px solid rgba( 255, 255, 255, 0.5 );
+    color: white;
+  }
+  .cards img
+  {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 2vh;
+    filter: grayscale(100%) brightness(100%) contrast(100%) opacity(1);
+    filter: invert(100%);
+  }
+
+  .cards a
+  {
+    text-decoration: none;
+    background-color: #FF004D;
+    color: white;
+    border-radius: 50px;
+    padding: 10px 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .cards a:hover
+  {
+    background-color: white;
+    color: black;
+  }
+  .github, .linkedin, .instagram, .leetcode
+  {
+    background: rgba(194, 194, 194, 0.207);
+    border: 1px solid rgba( 255, 255, 255, 0.5 );
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    
+  }
+
+  .skill-container
+  {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 5px;
+    margin-bottom: 20px;
+  }
+
+  .skill
+  {
+    background: rgba(194, 194, 194, 0.207);
+    border: 1px solid rgba( 255, 255, 255, 0.5 );
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 20px;
+
+  }
+
+  .skill-img img
+  {
+    width: 50px;
+  }
+
+  .skill-info
+  {
+    margin: 0;
+    padding: 0;
+  }
+  .skill-info h3
+  {
+    margin: 0;
+    padding: 0;
+  }
+  .skill-info p
+  {
+    margin: 0;
+    padding: 0;
+  }
+
+  #projects
+  {
+    color: #EBF4F6;
+    background: rgba( 255, 255, 255, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    -webkit-backdrop-filter: blur( 3.5px );
+    border: 1px solid rgba( 255, 255, 255, 0.5 );
+    margin-bottom: 20px;
+  }
+  #projects h2
+  {
+    background-color: #FF004D;
+    width: fit-content;
+    padding: 8px;
+    border-radius: 50px;
+  }
+
+  #contact
+  {
+    color: white;
+    background: rgba( 255, 255, 255, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    -webkit-backdrop-filter: blur( 3.5px );
+    border: 1px solid rgba( 255, 255, 255, 0.5 );
+    margin-bottom: 20px;
+  }
+
+  #contact input
+  {
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+  }
+  #contact textarea
+  {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+  }
+
+  #contact h2
+  {
+    background-color: #FF004D;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 50px;
+  }
+
+  @media screen and (max-width:650px) {
+    .card_container
+  {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    font-size: 15px;
+  }
+  .cards img
+  {
+    width: 50px;
+    border-radius: 50%;
+    margin-bottom: 2vh;
+  }
+
+
+    .skill-container
+    {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(125px, 1fr));
+      font-size: 10px;
+    }
+
+    .skill-img img
+    {
+      width: 40px;
+    }
+    
+  }

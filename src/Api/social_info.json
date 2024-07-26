@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Github",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png",
+        "siteUrl": "https://github.com/mhtkr",
+        "className": "github"
+    },
+    {
+        "id": "2",
+        "name":"LinkedIn",
+        "imgUrl":"https://cdn-icons-png.flaticon.com/512/61/61109.png",
+        "siteUrl":"https://www.linkedin.com/in/mohit-kumar-1578302aa/",
+        "className": "linkedin"
+    },
+    {
+        "id": "3",
+        "name":"Instagram",
+        "imgUrl":"https://cdn-icons-png.flaticon.com/512/1384/1384015.png",
+        "siteUrl":"https://www.instagram.com/mkk.guru/?hl=en",
+        "className": "instagram"
+    },
+    {
+        "id": "4",
+        "name":"LeetCode",
+        "imgUrl":"https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3627112-3029520.png",
+        "siteUrl":"https://leetcode.com/u/mohitkr9933/",
+        "className": "leetcode"
+    }
+]
