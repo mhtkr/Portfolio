@@ -8,7 +8,7 @@ const SkillCard = () => {
         {skill_data.map((curEle) => (
           <div className="skill">
             <div className="skill-img">
-              <img src={curEle.imgUrl} />
+              <img src={curEle.imgUrl} alt={curEle.name}/>
             </div>
             <div className="skill-info">
               <h3>{curEle.name}</h3>
