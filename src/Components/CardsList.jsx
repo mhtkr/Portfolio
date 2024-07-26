@@ -5,7 +5,7 @@ const CardList = () => {
   return (
     <div className="card_container">
       {social_info.map((curEle, index) => (
-        <div className="cards">
+        <div key = {curEle.id}className="cards">
           <section key={curEle.id} className={curEle.className}>
             <h2>{curEle.name}</h2>
             <img src={curEle.imgUrl} alt={curEle.name} />

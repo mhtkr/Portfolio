@@ -5,8 +5,8 @@ const SkillCard = () => {
   return (
     <>
       <div className="skill-container">
-        {skill_data.map((curEle) => (
-          <div className="skill">
+        {skill_data.map((curEle, index) => (
+          <div key = {index}className="skill">
             <div className="skill-img">
               <img src={curEle.imgUrl} alt={curEle.name}/>
             </div>
