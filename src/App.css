@@ -270,6 +270,7 @@ body {
   padding: 20px;
   color: white;
   display: flex;
+  gap: 20px;
   font-size: 1.8vmin;
 }
 
