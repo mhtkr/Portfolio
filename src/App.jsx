@@ -6,6 +6,7 @@ import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 import CardList from './Components/CardsList';
 import SkillCard from './Components/SkillCard';
+import Achieve from './Components/Achieve';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <CardList/>
       <SkillCard/>
       <Projects />
+      <Achieve />
       <Contact />
       <Footer />
     </div>

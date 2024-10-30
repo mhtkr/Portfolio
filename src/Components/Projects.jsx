@@ -5,17 +5,18 @@ function Projects() {
     <section id="projects">
       <h2>My Projects</h2>
       <div>
-        {/* Add your projects here */}
         <div>
-          <h3>Company's Website</h3>
-          <p>Design and Build a full website for
-          an organization - Vital Vishwa Pvt. Ltd.</p>
-        </div>
-        <div>
-          <h3>Gaming Store</h3>
-          <p>Design and Build a online platform where
-          people can get amazing offers in one place going on
-          different gaming websites.</p>
+          <h2>AI ChatBot Based on Google Gemini - <i>Gemini-Clone</i></h2>
+          <p>Build a ChatBot just like chatGPT or Google Gemini based on Google Gemini
+          as i used Google Gemini Pro API in this project, this AI can generate human like
+          texts in the response of user prompts just like any other AI ChatBot. As i design its
+          User Interface exactly like Google Gemini so can call it a Gemini Clone as well.</p>
+          <a href="https://gemi9.netlify.app/" target="blank">
+          <button>Try it!</button>
+        </a>
+        <a href="https://gemi9.netlify.app/" target="blank">
+          <button>Source Code</button>
+        </a>
         </div>
       </div>
     </section>

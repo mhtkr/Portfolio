@@ -103,6 +103,11 @@
         "name": "Artificial Intelligence",
         "imgUrl": "https://cdn-icons-png.flaticon.com/512/2472/2472035.png",
         "rating": "◉◉◉◉"
+    },
+    {
+        "name": "Microsoft Excel",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png",
+        "rating": "◉◉◉"
     }
 
 

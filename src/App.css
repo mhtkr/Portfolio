@@ -265,3 +265,18 @@ body {
     }
     
   }
+
+.ach-main{
+  padding: 20px;
+  color: white;
+  display: flex;
+  font-size: 1.8vmin;
+}
+
+.badge{
+  background-color: white;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display: inline-block;
+  text-align: center;
+}
